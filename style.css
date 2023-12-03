@@ -1,0 +1,10 @@
+.first {
+  margin: 30px;
+  text-align: center;
+  background-color: rgb(161, 179, 45);
+  border-radius: 60%;
+  border: solid 10px rgb(56, 172, 104);
+}
+img{
+  border-radius: 60px;
+}
